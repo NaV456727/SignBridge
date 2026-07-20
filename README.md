@@ -7,26 +7,23 @@ SignBridge is a desktop application that recognizes American Sign Language gestu
 Built with a modular architecture, SignBridge demonstrates the complete machine learning workflow—from data collection and preprocessing to model training and real-time inference.
 
 ---
----
 
 ## Screenshots
 
 ### Home Screen
 
 ```md
-![Home](docs/screenshots/Default_Window.png)
-```
-
-### Gesture Detection
-
-```md
-![Hello](docs/screenshots/Hello.png)
+![Default_Window](docs/screenshots/Default_Window.png)
 ```
 
 ### Sentence Builder
 
 ```md
 ![HRU](docs/screenshots/HRU.png)
+```
+
+```md
+![Hello](docs/screenshots/Hello.png)
 ```
 
 ---
@@ -90,12 +87,13 @@ SignBridge
 │   ├── training/
 │   ├── ui/
 │   ├── utils/
+│   ├──config.py
 │   └── main.py
 │
 ├── docs/
 │   ├── screenshots/
-│   ├── demo.gif
-│   └── architecture.png
+│   └── demo/
+│   
 │
 ├── dataset/
 ├── models/
@@ -111,7 +109,7 @@ SignBridge
 Clone the repository.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/SignBridge.git
+git clone https://github.com/NaV456727/SignBridge.git
 
 cd SignBridge
 ```
@@ -257,27 +255,8 @@ Feel free to fork the repository and submit a pull request.
 
 ---
 
-# License
-
-This project is licensed under the MIT License.
-
----
-
-# Acknowledgements
-
-- Google MediaPipe
-- OpenCV
-- Scikit-learn
-- Kaggle ASL Alphabet Dataset
-
----
-
 ## Author
 
 **Abhinav Dahake**
 
-Electronics Engineering Student | Embedded Systems | Machine Learning | Computer Vision
-
-GitHub: https://github.com/YOUR_USERNAME
-
-LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+LinkedIn: https://www.linkedin.com/in/abhinav-dahake-8096282ab/
