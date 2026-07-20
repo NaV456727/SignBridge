@@ -1,0 +1,17 @@
+# BGR Colors
+
+BACKGROUND = (35, 35, 35)
+
+PANEL = (50, 50, 50)
+
+PANEL_BORDER = (90, 90, 90)
+
+WHITE = (255, 255, 255)
+
+GREEN = (0, 220, 0)
+
+GRAY = (180, 180, 180)
+
+RED = (0, 0, 255)
+
+BLUE = (255, 180, 0)
