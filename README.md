@@ -7,15 +7,6 @@ SignBridge is a desktop application that recognizes American Sign Language gestu
 Built with a modular architecture, SignBridge demonstrates the complete machine learning workflow—from data collection and preprocessing to model training and real-time inference.
 
 ---
-
-## Demo
-
-> *(Insert your demo GIF here)*
-
-```md
-![Demo](docs/demo.gif)
-```
-
 ---
 
 ## Screenshots
@@ -23,19 +14,19 @@ Built with a modular architecture, SignBridge demonstrates the complete machine 
 ### Home Screen
 
 ```md
-![Home](docs/screenshots/home.png)
+![Home](docs/screenshots/Default_Window.png)
 ```
 
 ### Gesture Detection
 
 ```md
-![Detection](docs/screenshots/detection.png)
+![Hello](docs/screenshots/Hello.png)
 ```
 
 ### Sentence Builder
 
 ```md
-![Sentence](docs/screenshots/sentence.png)
+![HRU](docs/screenshots/HRU.png)
 ```
 
 ---
