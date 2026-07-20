@@ -12,19 +12,13 @@ Built with a modular architecture, SignBridge demonstrates the complete machine 
 
 ### Home Screen
 
-```md
 ![Home Screen](docs/screenshots/Default-Window.png)
-```
 
 ### Sentence Builder
 
-```md
 ![HRU](docs/screenshots/HRU.png)
-```
 
-```md
 ![Hello](docs/screenshots/Hello.png)
-```
 
 ---
 
