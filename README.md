@@ -13,7 +13,7 @@ Built with a modular architecture, SignBridge demonstrates the complete machine 
 ### Home Screen
 
 ```md
-![Default_Window](docs/screenshots/Default_Window.png)
+![Home Screen](docs/screenshots/Default-Window.png)
 ```
 
 ### Sentence Builder
